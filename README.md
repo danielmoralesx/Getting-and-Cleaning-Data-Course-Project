@@ -35,7 +35,7 @@ Good luck!
 
 Library dplyr added for the last trasformation with group_by, summarise_each and the pipe operator.
 ```R
-  library(dplyr)
+library(dplyr)
 ```
 
 A simple call to read.table transforms the data in the txt files into data frames.
